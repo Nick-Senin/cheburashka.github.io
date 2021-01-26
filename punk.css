@@ -1,0 +1,35 @@
+*{
+
+	border:1px solid red;
+}
+
+p {
+	width:750px;
+	font-size:80px;
+}
+header {
+	width:100%;
+    background-color:#FFF500;
+}
+nav {
+	width:100%;
+}
+article {
+	width:100%;
+}
+footer {
+	width:100%;
+}
+
+.U {
+	width:100%;
+}
+.Y {
+	width:100%;
+}
+.X {
+	width:100%;
+}
+.W {
+	width:100%;
+}
